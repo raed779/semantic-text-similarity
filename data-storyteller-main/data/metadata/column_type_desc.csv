@@ -1,0 +1,20 @@
+column_name,type
+Unnamed: 0,numerical
+score_1,numerical
+score_2,numerical
+score_3,numerical
+score_4,numerical
+score_5,numerical
+label_pred_1,categorical
+label_pred_2,categorical
+label_pred_3,categorical
+label_pred_4,categorical
+label_pred_5,categorical
+label_true,categorical
+is_pred_1_correct,categorical
+is_pred_2_correct,categorical
+is_pred_3_correct,categorical
+is_pred_4_correct,categorical
+is_pred_5_correct,categorical
+is_top3_correct,categorical
+is_top5_correct,categorical
